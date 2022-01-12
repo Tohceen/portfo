@@ -67,7 +67,7 @@ pathtools==0.1.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==7.2.0
-pipenv==2020.5.28
+pipenv==2022.1.8
 pluggy==0.13.1
 ply==3.11
 prometheus-client==0.7.1
