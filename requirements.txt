@@ -179,7 +179,7 @@ pyobjc-framework-Vision==6.2.1
 pyobjc-framework-WebKit==6.2.1
 pyOpenSSL==19.1.0
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PyQt5==5.15.0
 PyQt5-sip==12.8.0
 PyQtWebEngine==5.15.0
